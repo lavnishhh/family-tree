@@ -1,0 +1,151 @@
+{
+    "name": {
+        "en": "Adam",
+        "hi": "आदम"
+    },
+    "children": [
+        {
+            "name": {
+                "en": "Cain",
+                "hi": "काइन"
+            },
+            "children": [
+                {
+                    "name": {
+                        "en": "Enoch",
+                        "hi": "एनोच"
+                    },
+                    "children": [
+                        {
+                            "name": {
+                                "en": "Irad",
+                                "hi": "इराद"
+                            },
+                            "children": [
+                                {
+                                    "name": {
+                                        "en": "Mehujael",
+                                        "hi": "मेहुजाएल"
+                                    },
+                                    "children": [
+                                        {
+                                            "name": {
+                                                "en": "Methushael",
+                                                "hi": "मेथुशाएल"
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": {
+                                                        "en": "Lamech",
+                                                        "hi": "लामेक"
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "name": {
+                                                                "en": "Jabal",
+                                                                "hi": "याबल"
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": {
+                                                                        "en": "Jubal",
+                                                                        "hi": "जुबल"
+                                                                    },
+                                                                    "children": []
+                                                                },
+                                                                {
+                                                                    "name": {
+                                                                        "en": "Tubal-cain",
+                                                                        "hi": "टूबल-काइन"
+                                                                    },
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": {
+                                                                "en": "Japheth",
+                                                                "hi": "जाफेथ"
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": {
+                                                                        "en": "Gomer",
+                                                                        "hi": "गोमेर"
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": {
+                                                                                "en": "Ashkenaz",
+                                                                                "hi": "अश्केनाज"
+                                                                            },
+                                                                            "children": []
+                                                                        },
+                                                                        {
+                                                                            "name": {
+                                                                                "en": "Riphath",
+                                                                                "hi": "रिफाथ"
+                                                                            },
+                                                                            "children": []
+                                                                        },
+                                                                        {
+                                                                            "name": {
+                                                                                "en": "Togarmah",
+                                                                                "hi": "टोगरमह"
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": {
+                                                                        "en": "Magog",
+                                                                        "hi": "मागोग"
+                                                                    },
+                                                                    "children": []
+                                                                },
+                                                                {
+                                                                    "name": {
+                                                                        "en": "Madai",
+                                                                        "hi": "मदाई"
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": {
+                                                                                "en": "Media",
+                                                                                "hi": "मीडिया"
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": {
+                                                                "en": "Tubalcain",
+                                                                "hi": "ट्यूबल-काइन"
+                                                            },
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": {
+                                                        "en": "Jabal",
+                                                        "hi": "याबल"
+                                                    },
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
